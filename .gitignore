@@ -1,1 +1,4 @@
 myterminal/
+seeds
+database_name.db
+.env
